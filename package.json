@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/boostcell",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Boost color cell values and contrast-safe presentation helpers.",
+  "bin": {
+    "boostcell": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/boostcell.git"
+  },
+  "homepage": "https://theworker02.github.io/boostcell/",
+  "keywords": [
+    "boost",
+    "cell",
+    "color",
+    "cli",
+    "toolkit"
+  ]
+}
